@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-yourcompany-yourid.adobeaemcloud.com/bin/franklin.delivery/swatithakur08/coffee-shop-forms/main
+    url: https://author-p148120-e1511460.adobeaemcloud.com/bin/franklin.delivery/swatithakur08-creator/coffee-shop-forms/main
     type: "markup"
     suffix: ".html"
