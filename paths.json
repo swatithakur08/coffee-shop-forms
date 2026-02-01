@@ -1,6 +1,7 @@
 {
   "mappings": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
@@ -14,5 +15,13 @@
     "/content/",
     "/content/dam/"
 >>>>>>> ab87910 (Initial commit)
+=======
+    "/content/coffee-shop-forms/:/",
+    "/content/coffee-shop-forms/configuration:/.helix/config.json",
+    "/content/coffee-shop-forms/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/coffee-shop-forms/"
+>>>>>>> c5ca872 (Update paths.json)
   ]
 }
