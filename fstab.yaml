@@ -1,6 +1,7 @@
 mountpoints:
   /:
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
@@ -9,3 +10,8 @@ mountpoints:
     type: "markup"
     suffix: ".html"
 >>>>>>> e5f7024 (AEM connection)
+=======
+    url: https://author-p148120-e1511460.adobeaemcloud.com/bin/franklin.delivery/swatithakur08-creator/coffee-shop-forms/main
+    type: "markup"
+    suffix: ".html"
+>>>>>>> 96f9700 (Update fstab.yaml)
