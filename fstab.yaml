@@ -1,5 +1,11 @@
 mountpoints:
   /:
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+    url: https://author-yourcompany-yourid.adobeaemcloud.com/bin/franklin.delivery/swatithakur08/coffee-shop-forms/main
+    type: "markup"
+    suffix: ".html"
+>>>>>>> e5f7024 (AEM connection)
